@@ -1,0 +1,39 @@
+*{
+    background-color: bisque;
+}
+.head{
+    height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid #000000;
+}
+.datos-personales{
+    border: 1px solid #000000;
+    text-align: center;
+}
+.formacion-academica{
+    border: 1px solid #000000;
+
+}
+.experiencia-laboral{
+    border: 1px solid #000000;
+
+}
+.titulo{
+    text-align: center;
+    background-color:darkgreen;
+    color: aliceblue;
+    padding: 6px;
+}
+#img-foto{
+    width: 11em; 
+    height: 15em; 
+    margin-right: 1em; 
+}
+.lista{
+    list-style-type: square;
+    font-size: 25px;
+    font-family: "Trebuchet MS", Verdana, fantasy;
+    color: blue;
+}
